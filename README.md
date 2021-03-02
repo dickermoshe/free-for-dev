@@ -646,6 +646,7 @@ Table of Contents
   * [Wufoo](https://www.wufoo.com/) - Quick forms to use on websites. Free plan has a limit of 100 submissions each month.
   * [Web3Forms](https://web3forms.com) - Contact forms for Static & JAMStack Websites without writing backend code. Free plan allows Unlimited Forms, Unlimited Domains & 250 Submissions per month.
   * [Zoho Forms](https://www.zoho.com/forms/) - with 40+ field types, customizable themes, situation-specific templates, and a simple user interface, helps you create beautiful, functional forms for all your needs
+  * [Cognito Forms](https://www.cognitoforms.com/) - Free form builder with conditional fields, on-the-fly calculations, and payment proccessing. 500 submissions/month. Submissions are stored online and can be emailed and/or POSTed to a endpoint.
 
 ## CDN and Protection
 
